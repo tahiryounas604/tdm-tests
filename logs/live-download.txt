@@ -1,0 +1,9 @@
+[2] https://cachefly.cachefly.net/10mb.test
+  -> /tmp/tdm-test-10mb.test (8 connections)
+64.00 KB / 10.00 MB (  0.6%)  64.00 KB/s  ETA 02:39
+1.12 MB / 10.00 MB ( 11.2%)  9.30 MB/s  ETA 00:00
+2.44 MB / 10.00 MB ( 24.4%)  10.96 MB/s  ETA 00:00
+5.31 MB / 10.00 MB ( 53.1%)  15.26 MB/s  ETA 00:00
+7.75 MB / 10.00 MB ( 77.5%)  16.73 MB/s  ETA 00:00
+9.31 MB / 10.00 MB ( 93.1%)  15.33 MB/s  ETA 00:00
+Done: /tmp/tdm-test-10mb.test (10.00 MB) in 5.04s, avg 1.98 MB/s
